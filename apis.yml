@@ -39,7 +39,6 @@ apis:
   - name: Cat Facts
     description: "Daily cat facts"
     humanURL: https://alexwohlbruck.github.io/cat-facts/
-    baseURL: https://alexwohlbruck.github.io/cat-facts/
     tags:
       - Animals
     properties:
